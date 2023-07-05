@@ -35,4 +35,12 @@ class TaskController extends Controller
         $task->delete();
         return response()->json(null, 204);
     }
+    
+    public function getStatus($id)
+    {
+    $task = Task::findOrFail($id);
+
+    return response()->json(['status' => $task->status]);
+    }
+
 }
