@@ -12,6 +12,7 @@ class CreateTasksTable extends Migration
             $table->string('title');
             $table->text('description');
             $table->timestamps();
+            $table->text('status');
         });
     }
 
