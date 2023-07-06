@@ -1,6 +1,6 @@
 ## DOCUMENTAÇÃO
 
-Nome: Vitor Hugo Garcia Mariano,                        2º Periodo, ENG. de software.
+Nome: Vitor Hugo Garcia Mariano,                        1 ANO, 2º Periodo ENG. de software.
 
 Este foi o meu trabalho de MySQL, criando uma API rest com o laravel, o video de todas as configurações e a explicação delas esta tudo listado dentro desse git.
 
